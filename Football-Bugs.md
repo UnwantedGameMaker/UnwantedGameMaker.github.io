@@ -1,2 +1,2 @@
--[ ]Fixed goals so it doesnt score players when they run into it
--[ ]Added new playing field
+- [X] Fixed goals so it doesnt score players when they run into it
+- [ ] Added new playing field
