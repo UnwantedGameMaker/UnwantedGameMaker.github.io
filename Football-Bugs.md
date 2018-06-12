@@ -1,2 +1,2 @@
-- [X] Fixed goals so it doesnt score players when they run into it
-- [X] Added new playing field
+- [X] Fixed goals so it doesn't score players when they run into it.
+- [X] Added new playing field.
